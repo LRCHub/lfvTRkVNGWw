@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "どうして",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-20T14:26:21.146277Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "どうして",
+      "artist": "Satoko Shibata",
+      "has_synced": false,
+      "path": "select/01_どうして_Satoko_Shibata.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イゲ ムスン イリヤ ~なんで?どうして?",
+      "artist": "B1A4",
+      "has_synced": false,
+      "path": "select/02_イゲ_ムスン_イリヤ_~なんで_どうして_B1A4.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イゲ ムスン イリヤ ~なんで? どうして?",
+      "artist": "B1A4",
+      "has_synced": false,
+      "path": "select/03_イゲ_ムスン_イリヤ_~なんで__どうして_B1A4.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イゲ ムスン イリヤ~なんで? どうして? -Japanese ver.-",
+      "artist": "B1A4",
+      "has_synced": false,
+      "path": "select/04_イゲ_ムスン_イリヤ~なんで__どうして__-Japanese_ver.-_B1A4.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "どうして!ルイ先生",
+      "artist": "上坂すみれ",
+      "has_synced": false,
+      "path": "select/05_どうして!ルイ先生_上坂すみれ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "どうして!ルイ先生",
+      "artist": "Uesaka, Sumire",
+      "has_synced": false,
+      "path": "select/06_どうして!ルイ先生_Uesaka,_Sumire.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "どうして！ルイ先生",
+      "artist": "上坂すみれ",
+      "has_synced": false,
+      "path": "select/07_どうして!ルイ先生_上坂すみれ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "どうして...",
+      "artist": "安田 レイ",
+      "has_synced": true,
+      "path": "select/08_どうして..._安田_レイ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "どうして!ルイ先生",
+      "artist": "Sumire Uesaka",
+      "has_synced": false,
+      "path": "select/09_どうして!ルイ先生_Sumire_Uesaka.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "どうして",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/10_どうして_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "どうして",
+      "artist": "高瀬統也 & 野田愛実",
+      "has_synced": true,
+      "path": "select/11_どうして_高瀬統也_&_野田愛実.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "どうして...",
+      "artist": "Rei Yasuda",
+      "has_synced": true,
+      "path": "select/12_どうして..._Rei_Yasuda.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "どうして",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/13_どうして_Novelbright.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どうして",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_どうして_Novelbright.txt"
+    }
+  ]
+}
